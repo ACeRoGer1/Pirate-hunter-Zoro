@@ -10,8 +10,8 @@
 <a href="https://t.me/ZoroHelpSupport" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
 
 ### Bot And Channel 
-* Bot Link:  <a href="http://t.me/Hunter_Zoro_Robot" alt="GabiBraun"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-GabiBraun-blue" /> </a>
-* Log Channel: <a  href="https://t.me/Zoro_Support_Log" alt="Bot Logs"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-gabibraun%20Log%20Channel-9cf" /> </a>
+* Bot Link:  <a href="http://t.me/Hunter_Zoro_Robot" alt="HunterZoro"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-Hunterzoro-blue" /> </a>
+* Log Channel: <a  href="https://t.me/Zoro_Support_Log" alt="Bot Logs"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-HunterZoro%20Log%20Channel-9cf" /> </a>
 
 ### Creating your own modules.
 
