@@ -3,7 +3,7 @@
   <img src="https://telegra.ph/file/1d969977015878904b11a.jpg">
 </p>
 
-## Gabi Braun Robot 
+## Hunter Zoro Robot 
 
 ### Telegram Group
 <p align="left">
