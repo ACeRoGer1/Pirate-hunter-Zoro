@@ -59,6 +59,6 @@ For starters click on this button
 *   [꧁༒☬Archit Bhardwaj☬༒꧂](https://telegram.dog/ACeRoGeR1) 
 
 ## Bot Owner,  
-*   [Kirito](https://telegram.dog/asta_est)
+*   [★彡[Kirito]彡★](https://telegram.dog/asta_est)
 
 
